@@ -248,6 +248,17 @@ useEffect(() => {
 
 ![Home Responsiveness Page](public/about.png)
 
+### SEO ###
+
+**Screeenshots**
+
+![SEO Scrore](public/seo1.png)
+![SEO Scrore](public/seo2.png)
+![SEO Scrore](public/seo3.png)
+![SEO Scrore](public/seo4.png)
+![SEO Scrore](public/seo5.png)
+![SEO Scrore](public/seo6.png)
+
 ## Results Summary
 
 - **Total Test Cases Executed**: 9
